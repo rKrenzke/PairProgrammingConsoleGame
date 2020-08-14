@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\bin\Debug\PairProgrammingConsoleGame.exe.config
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\bin\Debug\PairProgrammingConsoleGame.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\bin\Debug\PairProgrammingConsoleGame.pdb
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\obj\Debug\PairProgrammingConsoleGame.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\obj\Debug\PairProgrammingConsoleGame.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\obj\Debug\PairProgrammingConsoleGame.exe
+C:\ElevenFiftyProjects\CSharpFundamentals\PairProgrammingConsoleGame\obj\Debug\PairProgrammingConsoleGame.pdb
